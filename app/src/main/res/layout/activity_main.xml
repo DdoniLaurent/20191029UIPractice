@@ -74,6 +74,21 @@
 
 
 
+    <CheckBox
+        android:checked="true"
+        android:text="이용약관에 동의합니다"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Switch
+        android:text="푸쉬알람"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="확인"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 
 
